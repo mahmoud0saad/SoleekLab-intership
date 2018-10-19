@@ -34,7 +34,8 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="@dimen/edit_text_password_margin"
-            android:hint="@string/enter_password_hint_et" />
+            android:hint="@string/enter_password_hint_et"
+            android:inputType="textPassword" />
 
         <Button
             android:id="@+id/button_register"
