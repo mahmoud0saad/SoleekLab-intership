@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="edit_text_email_margin">16dp</dimen>
+    <dimen name="edit_text_password_margin">16dp</dimen>
+    <dimen name="user_register_size">48sp</dimen>
+    <dimen name="text_size_item_list">24sp</dimen>
+</resources>

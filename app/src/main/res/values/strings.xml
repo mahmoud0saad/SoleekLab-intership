@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SoleekLapIntership</string>
+    <string name="enter_email_hint_et">Enter email</string>
+    <string name="enter_password_hint_et">Enter password</string>
+    <string name="btn_login_text">Login</string>
+    <string name="text_view_register_text">register new user</string>
+    <string name="message_retry_enter_password">please enter your email and password again</string>
+    <string name="btn_register_text">Register</string>
+    <string name="message_error_register">please enter your email and password</string>
+    <string name="user_login_text">User Login</string>
+    <string name="user_register_text">User Register</string>
+</resources>

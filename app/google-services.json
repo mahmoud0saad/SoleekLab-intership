@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "48837902339",
+    "firebase_url": "https://soleeklapintership.firebaseio.com",
+    "project_id": "soleeklapintership",
+    "storage_bucket": "soleeklapintership.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48837902339:android:a1c736e59f5c98f6",
+        "android_client_info": {
+          "package_name": "com.example.android.soleeklapintership"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48837902339-pmesmu80poth80psr488epppf77dft15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.soleeklapintership",
+            "certificate_hash": "bc3c492a281a7bc0a6e2e5023397bb12860fad49"
+          }
+        },
+        {
+          "client_id": "48837902339-d9eeqqdhd0761akf7hqt95bgnreot49u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyxa0FYYrTN5V5uqRfrnyxEJW2ynR1uxs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48837902339-d9eeqqdhd0761akf7hqt95bgnreot49u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
